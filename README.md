@@ -27,7 +27,7 @@ Este proyecto tiene como objetivo analizar el dataset **Heavy Equipment Pricing 
  
  🌎 Algunos estados (por ejemplo, Illinois, Texas) lideran en ingresos y volumen de ventas.
  
- 📉 Se observa una disminución en ventas a clientes particulares en periodos de recesión económica.
+
 
 
 ## 🛠️ TECNOLOGÍAS UTILIZADAS
