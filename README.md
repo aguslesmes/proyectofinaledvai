@@ -645,8 +645,10 @@ Top 5 estados: Nebraska, Montana, Iowa, Arizona, South Dakota.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Pueden acceder al TP en PBIx a traves de este enlace: https://drive.google.com/file/d/1Tgg2zgvFtz7mcTW-5FDpIkxm1RrfwE52/view?usp=drive_link
+
 📧 Contacto
 
-Cualquier duda sobre el proyecto, no dudes en conectarte conmigo: https://drive.google.com/file/d/1Tgg2zgvFtz7mcTW-5FDpIkxm1RrfwE52/view?usp=drive_link
+Cualquier duda sobre el proyecto, no dudes en conectarte conmigo: 
 
 LinkedIn: https://www.linkedin.com/in/agust%C3%ADn-lesmes-a60449196/
