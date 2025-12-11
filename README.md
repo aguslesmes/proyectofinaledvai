@@ -548,7 +548,7 @@ Evidencia observada:
 
 La participación de las Top 5 alcanza 75.3% del total (Ventas_Top5_Total / Ventas_Totales).
 
-El donut % Top 5 vs Others muestra una relación clara de ~75% vs ~25%, confirmando alta concentración.
+El grafico circular % Top 5 vs Others muestra una relación clara de ~75% vs ~25%, confirmando alta concentración en esas marcas.
 
 El treemap evidencia la distribución por marca, con líderes que acumulan volúmenes significativamente superiores al resto.
 
@@ -580,9 +580,8 @@ La barra apilada Dealer vs Privado revela mix de canal por tipo de cliente (algu
 
 Conclusión:
 
-La hipótesis se confirma parcialmente y con matices: Contratista y segmentos cercanos a operación profesional (p. ej., Distribuidor/Agricultor) muestran tickets promedio más altos. Gran empresa no es el máximo en tu gráfico, pero mantiene un ticket elevado. El tipo de vendedor (Dealer vs Privado) influye en el ticket por segmento.
+La hipótesis se confirma parcialmente: Contratista y  otros, (p. ej., Distribuidor/Agricultor) muestran tickets promedio más altos. Gran empresa no es el máximo en el gráfico, pero mantiene un ticket elevado. El tipo de vendedor (Dealer vs Privado) influye en el ticket por segmento.
 
-Recomendación analítica: Añadir una medida “Ticket Promedio ponderado por canal” para aislar el efecto Dealer/Privado y confirmar si el canal explica las diferencias.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -635,7 +634,6 @@ Implica foco comercial en pocas marcas estratégicas.
 
 Contratista (y perfiles afines como Distribuidor/Agricultor) con tickets superiores.
 Gobierno en el extremo inferior (~$70k).
-El canal (Dealer vs Privado) explica parte de las diferencias.
 
 ## Dominio territorial heterogéneo.
 
