@@ -47,7 +47,7 @@ Este proyecto tiene como objetivo analizar el dataset **Heavy Equipment Pricing 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔍 DESCRIPCIÓN DE LA FUENTE DE DATOS
 
-El conjunto de datos utilizado para el desarrollo del proyecto es un archivo CSV que contiene información detallada sobre transacciones comerciales de maquinaria pesada en el mercado estadounidense. Tu dataset contiene 1742 registros y 14 columnas. 
+El conjunto de datos utilizado para el desarrollo del proyecto es un archivo CSV que contiene información detallada sobre transacciones comerciales de maquinaria pesada en el mercado estadounidense. El dataset contiene 1742 registros y 14 columnas. 
 
 Este conjunto de datos permite analizar tendencias de ventas, comportamiento del cliente y desempeño de productos en diferentes regiones y periodos. Las variables incluidas abarcan datos clave como identificador único de la máquina, marca, tipo, año de fabricación, estado, horas de uso, condición (nuevo/usado), segmento de cliente, fecha de transacción, tipo de vendedor, forma de pago y precio de venta, entre otros.
 
